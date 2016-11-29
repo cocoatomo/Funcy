@@ -11,3 +11,6 @@ Settings.FSharpLint
 
 # Paket
 .paket/paket.exe
+
+# Visual Studio 2015 cache/options directory
+.vs/
